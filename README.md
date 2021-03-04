@@ -11,11 +11,12 @@
 
 -----------------------
 ## Description
+In this project, I created a new React-based Google Books Search app. This project implemented React components, worked with helper/util functions, and utilized React lifecycle methods to query and display books based on user searches. I also used Node, Express and MongoDB so that users can save books to review or purchase later.
 
 
 -----------------------
 ## Deployed Link
-[Link to Deployed Site]()
+[Link to Deployed Site](https://ancient-peak-31427.herokuapp.com/)
 
 -----------------------
 ## How to Start
